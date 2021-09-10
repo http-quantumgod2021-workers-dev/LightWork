@@ -1,0 +1,13 @@
+alert("Hello, World!");
+
+$ npm init
+  ...
+  package name: @QuantumGod2021-Workers-Dev/LightWork
+  ...
+  test command: exit 0
+  ...    
+  
+  $ npm install
+$ git add index.js package.json package-lock.json
+$ git commit -m "initialize npm package"
+$ git push
